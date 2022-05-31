@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FiveM+Developer+//+Front End+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FiveM+Developer+//+Web;Front+End+Developer+MAXI!)](https://git.io/typing-svg)
 asd
 <!---
 soymaxi/soymaxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
