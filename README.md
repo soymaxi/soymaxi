@@ -13,3 +13,14 @@
 - **FlexLife DeathMatch** (FiveM)
 - **Zarpados Life** (FiveM)
 - **Ultra Proyect** (Community)
+
+## 📋 | Programming Languages.
+
+- .LUA
+- HTML5
+- CSS++
+- JS
+
+## 💥 | Actual Project Discord.
+
+> https://discord.gg/baGcmCDfKJ
