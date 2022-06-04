@@ -4,17 +4,17 @@
 
 ## 💼 | Projects.
 
-- **FlexLife RolePlay** (FiveM)
-- **Akbar RolePlay** (FiveM)
-- **Akbar Rust** (Rust)
-- **Akbar Community** (FiveM/Rust/CS:GO/Minecraft)
-- **Pistoleros RolePlay** (FiveM)
-- **Dexter City** (FiveM)
-- **Callejeros RolePlay** (Remastered)(FiveM)
-- **TheBossesLife RolePlay** (FiveM)
-- **FlexLife DeathMatch** (FiveM)
-- **Zarpados Life** (FiveM)
-- **Ultra Proyect** (Community)
+- **FlexLife RolePlay** (FiveM) (Designer/Dev)
+- **Akbar RolePlay** (FiveM) (Dev)
+- **Akbar Rust** (Rust) (Dev)
+- **Akbar Community** (FiveM/Rust/CS:GO/Minecraft) (Dev)
+- **Pistoleros RolePlay** (FiveM) (Dev)
+- **Dexter City** (FiveM) (Dev)
+- **Callejeros RolePlay** (Remastered)(FiveM) (Dev)
+- **TheBossesLife RolePlay** (FiveM) (Dev)
+- **FlexLife DeathMatch** (FiveM) (Designer/Dev)
+- **Zarpados Life** (FiveM) (Designer/Dev)
+- **Ultra Proyect** (Community) (Owner)
 
 ## 📋 | Programming Languages.
 
