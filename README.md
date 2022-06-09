@@ -26,3 +26,5 @@
 ## 💥 | Actual Project Discord.
 
 > https://discord.gg/baGcmCDfKJ
+
+![banner](https://cdn.discordapp.com/attachments/977673542596431944/983078380792578048/BANNERCONFONDO2.png)
