@@ -1,6 +1,6 @@
 ## SoyMaxi 😴
 
-Hola, SoyMaxi. Desarrollador de scripts simples y complejos en FiveM.
+Hola, SoyMaxi. Desarrollador de scripts simples en FiveM.
 
 ## Estadísticas 👎
 
