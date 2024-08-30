@@ -2,6 +2,11 @@
 
 Hi!, Im Maxi and development for FiveM Servers.
 
+## ¿Are you looking for a script? 🔥
+
+- [Tebex](www.tebex.com)
+- [FiveM](https://forum.cfx.re/u/imaxidev/activity)
+
 ## Statistics 👎
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SoyMaxi&show_icons=true&count_private=true)
