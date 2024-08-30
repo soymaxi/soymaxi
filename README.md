@@ -1,19 +1,19 @@
 ## SoyMaxi 😴
 
-Hola, SoyMaxi. Desarrollador de scripts simples en FiveM.
+Hi!, Im Maxi and development for FiveM Servers.
 
-## Estadísticas 👎
+## Statistics 👎
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SoyMaxi&show_icons=true&count_private=true)
 
-## Framework y Lenguajes 🦿
+## Framework and Programming Languages 🦿
 
-- **Lenguajes de Programación:** .Lua; HTML; CSS
+- **Programming Languages:** .Lua; HTML; CSS
 - **Framework:** ESX, GTACORE (Own Framework) 
 
-## Contribuciones 🛌
+## Contributions 🛌
 
-Servidores a los que e contribuido
+Servers I have contributed to
 
 1. TheBossesLife
 2. ZarpadosLife
