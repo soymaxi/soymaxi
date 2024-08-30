@@ -4,8 +4,8 @@ Hi!, Im Maxi and development for FiveM Servers.
 
 ## ¿Are you looking for a script? 🔥
 
-- [Tebex](www.tebex.com)
-- [FiveM](https://forum.cfx.re/u/imaxidev/activity)
+- [**Tebex**](www.tebex.com)
+- [**FiveM**](https://forum.cfx.re/u/imaxidev/activity)
 
 ## Statistics 👎
 
