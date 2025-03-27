@@ -2,7 +2,6 @@
 
 Hi!, Im Maxi and development for FiveM Servers.
 
-gta_garaje (Paid)??
 https://www.youtube.com/watch?v=mtt3H39OqaA
 
 Cooking... 
