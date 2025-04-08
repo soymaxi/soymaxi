@@ -1,4 +1,4 @@
-## SoyMaxi 😴
+## imaxidev 😴
 
 Hi!, Im Maxi and development for FiveM Servers.
 
